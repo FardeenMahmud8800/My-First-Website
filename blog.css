@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#title1{
+    display: flexbox;
+    margin-top: 5rem;
+    margin-left: 40%;
+}
+
+#para{
+    display: flexbox;
+    justify-content: center;
+    background-color: aqua;
+    color: black strong;
+    font-weight: 100;
+    box-shadow: 20px 10px 5px;
+    margin: 50px;
+    padding: 20px;
+
+}
+#read{
+    margin-left: 45px;
+    background-color: aquamarine;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    border-color: white;
+    font-size: 12px;
+}
